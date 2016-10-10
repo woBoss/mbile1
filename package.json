@@ -1,0 +1,29 @@
+{
+  "name": "mbile1",
+  "version": "0.0.0",
+  "description": "this is my second repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woBoss/mbile1.git"
+  },
+  "keywords": [
+    "fuck"
+  ],
+  "author": "woBoss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/woBoss/mbile1/issues"
+  },
+  "homepage": "https://github.com/woBoss/mbile1#readme",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-stylus": "^2.5.0",
+    "gulp-uglify": "^2.0.0"
+  }
+}
